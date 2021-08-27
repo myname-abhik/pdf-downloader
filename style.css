@@ -1,0 +1,158 @@
+.hego{
+    text-decoration-color:orchid;
+    color:orchid;
+    text-align: center;
+
+}
+.hego:hover{
+    color: yellow;
+    text-decoration-color: yellow;
+    cursor: pointer;
+}
+.img{
+    position: relative;
+    left: 650px;
+}
+
+body{
+    background-color:black;
+    color:rgb(221, 18, 18);
+   
+    
+    
+    
+}
+.img2{
+    position:relative;
+    left: 500px;
+    right: 500px;
+    
+}
+.heho{
+    position: relative;
+    left: 200px;
+}
+.heho:hover{
+    color: yellow;
+    text-decoration-color: yellow;
+    cursor: pointer;
+}
+.helo{
+    position: relative;
+    left: 650px;
+    bottom: 100px;
+}
+.helo:hover{
+    color: yellow;
+    text-decoration-color: yellow;
+    cursor: pointer;
+}
+.kaji{
+    position: relative;
+    left: 1120px;
+    bottom: 430px;
+}
+.ka{
+    position: relative;
+    left: 1120px;
+    bottom: 440px;
+
+}
+.ka:hover{
+    color: yellow;
+    text-decoration-color: yellow;
+    cursor: pointer;
+}
+.chacha{
+    position: relative;
+    left: 650px;
+    bottom: 270px;
+}
+.kemp{
+    position: relative;
+    left: 450px;
+    top: 200px;
+    
+}
+.physic{
+    position: relative;
+    right: 200px;
+    bottom: 270px;
+}
+.keltu{
+    position: relative;
+    left: 510px;
+    bottom: 280px;
+}
+.kali{
+    position: relative;
+    top: 450px;
+    text-align: center;
+    color:orchid;
+    
+
+}
+.kali:hover{
+    color: yellow;
+    text-decoration-color: yellow;
+    cursor: pointer;
+}
+.lemph{
+    position: relative;
+    bottom: 270px;
+    left: 650px;
+    color: orchid;
+    
+}
+.lemph:hover{
+    color: yellow;
+    text-decoration-color: yellow;
+    cursor: pointer;
+
+}
+.akash{
+    position: relative;
+    bottom: 320px;
+    left: 200px;
+    color:orchid;
+}
+.akash:hover{
+    color: yellow;
+    text-decoration:yellow;
+    cursor: pointer;
+}
+.deep{
+    position: relative;
+    left: 1120px;
+    bottom: 390px;
+    color: orchid;
+}
+.deep:hover{
+    color: yellow;
+    text-decoration:yellow;
+    cursor: pointer;
+
+}
+.sayan{
+    position: relative;
+    text-align: center;
+    bottom: 380px;
+    color:orchid;
+}
+.sayan:hover{
+    text-decoration: yellow;
+    color: yellow;
+    cursor: pointer;
+}
+.gali{
+    position: relative;
+    left: 650px;
+    bottom: 50px;
+    color:orchid;
+}
+.gali:hover{
+    text-decoration: yellow;
+    color: yellow;
+    cursor: pointer;
+
+}
